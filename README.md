@@ -1,2 +1,2 @@
 # Cecilia-Lindi-Apuda
-MATLAB Group B
+MATLAB Group 6
